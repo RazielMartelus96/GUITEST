@@ -1,0 +1,9 @@
+name: GUITEST
+version: '${project.version}'
+main: test.guitest.GUITEST
+api-version: 1.19
+
+commands:
+  TestGui:
+    description: Just a test
+    usage: /<command>
